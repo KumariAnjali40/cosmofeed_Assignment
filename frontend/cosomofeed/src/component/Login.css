@@ -6,3 +6,12 @@
 .maindiv p{
     margin-right: 20px;
 }
+
+.signupDiv{
+    display: flex;
+    flex-direction: row;
+}
+
+.signupDiv p{
+    margin-left: 20px;
+}
